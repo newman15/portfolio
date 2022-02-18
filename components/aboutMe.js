@@ -31,7 +31,7 @@ export default function AboutMe() {
                     <p className='text-left m-4 font-Montserrat'>
                         I am a software engineer and I.T. professional located in the wonderful Pacific Northwest.
                         I have a Bachelors degree in Computer Science from Cal State Monterey Bay, and have worked 
-                        in the Information Technology industry for over 5 years. I'm passionate about turning 
+                        in the Information Technology industry for over 5 years. I&apos;m passionate about turning 
                         ordinary ideas into masterful products by creating engaging user experiences with clean 
                         and reusable code. 
                     </p>

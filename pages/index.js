@@ -33,14 +33,13 @@ export default function Home() {
 
             </main>
 
-            <footer className='relative text-center mt-4'>
+            <footer className='relative text-center mt-8 mb-4'>
                 <div className='inline-flex'>
                     <p>Developed By Aaron Newman</p>
                     
                     <a href="https://github.com/newman15?tab=repositories" target="_blank" rel='noopener noreferrer'>
                         <Image src="/github.svg" alt="Github Logo" width={50} height={50} />
                     </a>
-                    
                 </div>
             </footer>
         </div>
